@@ -1,0 +1,6 @@
+add title War and Peace; author Leo Tolstoy; ISBN 9780140447934; genre Novel; year 1869
+add title Harry Potter and the Sorcerer's Stone; author J.K. Rowling; ISBN 9780590353427; genre Fantasy; year 1997
+delete title Pride and Prejudice
+query title To Kill a Mockingbird
+query author F. Scott Fitzgerald
+save

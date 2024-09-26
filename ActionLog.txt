@@ -1,0 +1,401 @@
+-----------------------
+Book added/updated: New Title
+-----------------------
+Book added/updated: Whatever
+-----------------------
+Queried book for author with value: some
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: Something
+-----------------------
+Queried book for author with value: me
+-----------------------
+Queried book for author with value: me
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: asfdas
+-----------------------
+Queried book for title with value: sfdhtjyr
+-----------------------
+Queried book for genre with value: Horrer
+-----------------------
+Queried book for genre with value: Horrer
+-----------------------
+Queried book for genre with value: Horrer
+-----------------------
+Queried book for genre with value: Horrer
+-----------------------
+Queried book for title with value: sdfgdsf
+-----------------------
+Queried book for title with value: sdfgbsdfg
+-----------------------
+Queried book for title with value: sdfgbsdfg
+-----------------------
+Queried book for title with value: sdfgbsdfg
+-----------------------
+Queried book for title with value: sdfgbsdfg
+-----------------------
+Queried book for title with value: sdfgbsdfg
+-----------------------
+Queried book for title with value: dvgfs
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: New Title
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: New Book
+-----------------------
+Queried book for title with value: New Book
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Queried book for isbn with value: 9780141182636
+-----------------------
+Queried book for isbn with value: 9780141182636
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: New Book
+-----------------------
+Queried book for title with value: New Book
+-----------------------
+Queried book for author with value: ME
+-----------------------
+Queried book for title with value: Tew
+-----------------------
+Queried book for genre with value: Tew
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: Something
+-----------------------
+Queried book for title with value: Something
+-----------------------
+Book with ISBN '123456' has been deleted.
+-----------------------
+Queried book for title with value: Something
+-----------------------
+Book with ISBN '123456' has been deleted.
+-----------------------
+Book with ISBN '123456' has been deleted.
+-----------------------
+Queried book for title with value: The Great Gatsby
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: Mero Book
+-----------------------
+Book with ISBN '9780141439518' has been deleted.
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Book added/updated: The Great Gatsby
+-----------------------
+added book to the books: Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+ISBN: 9780141182636
+Genre: Fiction
+Year of publication: 1925
+
+-----------------------
+Book added/updated: Pride and Prejudice
+-----------------------
+added book to the books: Title: Pride and Prejudice
+Author: Jane Austen
+ISBN: 9780141439518
+Genre: Romance
+Year of publication: 1813
+
+-----------------------
+Book added/updated: To Kill a Mockingbird
+-----------------------
+added book to the books: Title: To Kill a Mockingbird
+Author: Harper Lee
+ISBN: 9780061120084
+Genre: Fiction
+Year of publication: 1960
+
+-----------------------
+Queried book for genre with value: Fiction
